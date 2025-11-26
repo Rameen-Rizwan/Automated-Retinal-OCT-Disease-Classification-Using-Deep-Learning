@@ -1,0 +1,2 @@
+# Automated-Retinal-OCT-Disease-Classification-Using-Deep-Learning
+Automated Retinal OCT Disease Classification using deep learning. This project trains a CNN model to classify OCT eye images into CNV, DME, Drusen, and Normal. It improves early detection of retinal diseases by analyzing medical imaging data with high accuracy, supporting ophthalmologists and enabling faster clinical decision-making.
